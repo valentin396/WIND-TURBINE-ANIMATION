@@ -73,3 +73,9 @@ Department of Smart Computing
 ## 📌 Project Purpose
 
 This project was developed to practice and demonstrate fundamental **computer animation and 3D modeling concepts using Blender**.
+
+# 🌬️ Wind Turbine Blender Project
+
+![Blender](https://img.shields.io/badge/Blender-3D-orange)
+![Computer Animation](https://img.shields.io/badge/Project-Computer%20Animation-blue)
+![Status](https://img.shields.io/badge/Status-Completed-success)
